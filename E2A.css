@@ -1,3 +1,33 @@
+/* 基本的なリセット */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* ヒーローヘッダーのスタイル */
+.hero-header {
+    /* アップロードされた画像ファイル名に置き換えてください */
+    background-image: url('67_20251209203841.png');
+    
+    /* 背景画像に関する設定 */
+    background-size: cover; /* コンテナ全体を覆うように画像を拡大/縮小 */
+    background-position: center; /* 画像を中央に配置 */
+    background-repeat: no-repeat; /* 画像の繰り返しを防ぐ */
+    
+    /* ヘッダーの高さ (必要に応じて調整してください) */
+    height: 400px; 
+    
+    /* 画像の上にコンテンツを重ねる場合は、display: flex; などで配置します */
+    /* display: flex;
+    align-items: center; 
+    justify-content: center; */
+}
+
+/* その他のコンテンツ */
+main {
+    padding: 20px;
+}
+
 /* E2A.css のひな型 */
 
 /* H1要素のスタイル */

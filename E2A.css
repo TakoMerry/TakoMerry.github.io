@@ -7,7 +7,7 @@ body, h1, p {
 /* ヒーローヘッダーのスタイル */
 .hero-header {
     /* アップロードされた画像ファイル名に置き換えてください */
-    background-image: url('67_20251209203841.png');
+    background-image: url('"E:\新しいフォルダー (2)\aaaaa\67_20251209203841.png"');
     
     /* 背景画像に関する設定 */
     background-size: cover; /* コンテナ全体を覆うように画像を拡大/縮小 */

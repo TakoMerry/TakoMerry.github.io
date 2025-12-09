@@ -15,7 +15,7 @@ body, h1, p {
     background-repeat: no-repeat; /* 画像の繰り返しを防ぐ */
     
     /* ヘッダーの高さ (必要に応じて調整してください) */
-    height: 400px; 
+    height: 50vh; 
     
     /* 画像の上にコンテンツを重ねる場合は、display: flex; などで配置します */
     /* display: flex;
